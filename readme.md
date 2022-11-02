@@ -1,6 +1,6 @@
 # **ИНСТРУКЦИЯ ПО РАБОТЕ С GIT**
 
-LICENSE: [MIT](./license.md)
+LICENSE: [MIT](./ages/license.md)
 
 ![git-logo](./assets/logo.png)
 
