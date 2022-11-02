@@ -31,5 +31,25 @@ LICENSE: [MIT](./ages/license.md)
  &#128073; [git reset](pages/reset.md)</br>
 </details>
 
+
+<details> 
+  <summary>Команды для отладки</summary>
+
+ &#128073; [git bisect](pages/bisect.md)</br>
+ &#128073; [git blame](pages/blame.md)</br>
+ &#128073; [git grep](pages/grep.md)</br>
+</details>
+
+<details> 
+  <summary>Проекты в GitHub</summary>
+
+ &#128073; [git bisect](pages/GitHub.md)</br>
+
+</details>
+
+
+
+
+
 ---
 GIT logo by Jason Long - [NEN](http://git-scm.com/downloads/logos), license: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
