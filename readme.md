@@ -43,7 +43,7 @@ LICENSE: [MIT](./ages/license.md)
 <details> 
   <summary>Проекты в GitHub</summary>
 
- &#128073; [git bisect](pages/GitHub.md)</br>
+ &#128073; [GitHub](pages/GitHub.md)</br>
 
 </details>
 
